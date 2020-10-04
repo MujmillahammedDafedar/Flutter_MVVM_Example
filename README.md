@@ -1,6 +1,6 @@
-# mvvm_flutter
+# Mvvm Flutter App
 
-Simple flutter application using MVVM and provider
+Simple flutter application using MVVM and provider <br/>
  ![alt-text](https://raw.githubusercontent.com/MujmillahammedDafedar/Flutter_MVVM_Example/master/WhatsApp%20Video%202020-10-04%20at%204.22.04%20PM.gif)
 ## Getting Started
 
